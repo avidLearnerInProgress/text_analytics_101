@@ -1,6 +1,6 @@
 # Text-Analytics-101
 
-### Collection of practicals(aka toy projects) implemented during the coursework at UCD
+### Collection of projects implemented during the coursework
 
 | Sr. No. | Practical | Description | Problem Statement | Notebook | Report |
 | :---: | :---: | :---: | :---: | :---: | :---: |
