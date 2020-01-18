@@ -2,7 +2,7 @@
 
 ## Collection of practicals(aka toy projects) implemented during the coursework at UCD
 
-| Sr. No. | Practical | Description | Handout | Approach | Solution |
+| Sr. No. | Practical | Description | Problem Statement | Approach | Solution |
 | --- | --- | --- | --- | --- | --- |
 | 1. | [Text Preprocessing](/1.week1_textPreprocessing)| | [Handout](/1.week1_textPreprocessing/handout.pdf)  | [Readme](/1.week1_textPreprocessing/Readme.md) | [Code](/1.week1_textPreprocessing/code/practical.ipynb) |
 | 2. | [Simple Frequencies](/2.week2_simpleFrequencies)| | [Handout](/2.week2_simpleFrequencies/handout.pdf) | [Readme](/2.week2_simpleFrequencies/Readme.md) | [Code](/2.week2_simpleFrequencies/code/practical.ipynb) |
