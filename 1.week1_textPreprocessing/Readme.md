@@ -23,4 +23,4 @@
 
 7. **Entity extraction:** The process of identifying the conceptual identities behind the words rather than the dictionary knowledge.
 
-For more implementation details refer [notebook](/code/practical.ipynb) and [report](report.pdf)
+For more implementation details refer [notebook](1.week1_textPreprocessing/code/practical.ipynb) and [report](1.week1_textPreprocessing/report.pdf)
