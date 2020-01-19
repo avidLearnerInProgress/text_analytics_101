@@ -1,12 +1,17 @@
-## Gist : Perform basic steps of Text preprocessing
-Please refer [handout](2.week2_simpleFrequencies/handout.pdf) for objectives
+## Gist : Understand and perform TF-IDF, PMI and Entropy calculations on set of documents
+Please refer [handout](3.week3_beyondFrequencies/handout.pdf) for objectives
 
 ### Main Tasks performed:
 
-1. Form word cloud from textual data in R using the wordcloud() module. Perform analysis on these words
+1. **Term Frequency (TF):** tf(i,j) = (term 'i' in doc 'j') / (total words in doc 'j')  
+        
+2. **Inverse Document Frequency (IDF):** idf(i, J) = log(total documents(J) /documents with term 'i')    
 
-2. Play around with Google N-gram viewer
+3. **TF-IDF:**  tf(i, j) * idf(i, J)
 
-3. Perform normalisation using different techniques on a list of words and report analysis
+3. **PMI:**  It measures how much more likely the words co-occur than if they were independent in the text. It is calculated as: PMI(word1, word2) = Probability(word1, word2)/ Prob(word1) P(Word2)  
 
-For more implementation details refer [notebook](2.week2_simpleFrequencies/code/practical.ipynb) and [report](2.week2_simpleFrequencies/report.pdf)
+4. **Emtropy:**  It is defined as the sum of the probability of each label times the log probability of that same
+label -> H(A) = -sum(p * log(p))  
+
+For more implementation details refer [notebook](3.week3_beyondFrequencies/code/practical.ipynb) and [report](3.week3_beyondFrequencies/report.pdf)
