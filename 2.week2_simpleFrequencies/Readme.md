@@ -1,4 +1,4 @@
-## Gist : Perform basic steps of Text preprocessing
+## Gist : Understand the importance of occurrences of words in documents
 Please refer [handout](2.week2_simpleFrequencies/handout.pdf) for objectives
 
 ### Main Tasks performed:
