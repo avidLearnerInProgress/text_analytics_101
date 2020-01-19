@@ -1,4 +1,5 @@
 ## Gist : Perform basic steps of Text preprocessing
+Please refer [handout](1.week1_textPreprocessing/handout.pdf) for objectives
 
 ### Main Tasks performed:
 
