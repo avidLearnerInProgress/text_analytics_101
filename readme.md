@@ -1,7 +1,8 @@
 # Text-Analytics-101
 
-### Collection of projects implemented during the coursework
+### Practicals implemented during the coursework
 
+<!--
 | Sr. No. | Practical | Description | Problem Statement | Notebook | Report |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1. | [Text Preprocessing](/1.week1_textPreprocessing)| [Readme](/1.week1_textPreprocessing/Readme.md) | [Handout](/1.week1_textPreprocessing/handout.pdf) | [Code](/1.week1_textPreprocessing/code/practical.ipynb) | [Report](/1.week1_textPreprocessing/report.pdf) |
@@ -13,3 +14,15 @@
 | 7. | [Evaluation](/7.week7_evaluation)| [Readme](/7.week7_evaluation/Readme.md) | [Handout](/7.week7_evaluation/handout.pdf) | [Code](/7.week7_evaluation/code/practical.ipynb) | [Report](/7.week7_evaluation/report.pdf) |
 | 8. | [Sentiment Identification](/8.week8_sentimentIdentification)| [Readme](/8.week8_sentimentIdentifcation/Readme.md) | [Handout](/8.week8_sentimentIdentification/handout.pdf) | [Code](/8.week8_sentimentIdentification/code/practical.ipynb) | [Report](/8.week8_sentimentIdentifcation/report.pdf) |
 | 9. | [Sentiment Use](/9.week9_sentimentUse)| [Readme](/9.week9_sentimentUse/Readme.md) | [Handout](/9.week9_sentimentUse/handout.pdf) | [Code](/9.week9_sentimentUse/code/practical.ipynb) | [Report](/9.week9_sentimentUse/report.pdf) |
+-->
+
+* [Text Preprocessing](/1.week1_textPreprocessing) -> [Problem description](/1.week1_textPreprocessing/Readme.md)
+* [Simple Frequencies](/2.week2_simpleFrequencies) -> [Problem description](/2.week2_simpleFrequencies/Readme.md)
+* [Beyond Frequencies](/3.week3_beyondFrequencies) -> [Problem description](/3.week3_beyondFrequencies/Readme.md)
+* [Similarity](/4.week4_similarity) -> [Problem description](/4.week4_similarity/Readme.md)
+* [Classification](/5.week5_classification) -> [Problem description](/5.week5_classification/Readme.md)
+* [Clustering](/6.week6_clustering) -> [Problem description](/6.week6_clustering/Readme.md)
+* [Evaluation](/7.week7_evaluation) -> [Problem description](/7.week7_evaluation/Readme.md)
+* [Sentiment Identification](/8.week8_sentimentIdentification) -> [Problem description](/8.week8_sentimentIdentification/Readme.md)
+* [Sentiment Use](/9.week9_sentimentUse) -> [Problem description](/9.week9_sentimentUse/Readme.md)
+
